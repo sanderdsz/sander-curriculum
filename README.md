@@ -1,10 +1,8 @@
 # Sander's Personal Curriculum Progress
 
-> **Note:** test.
+> Welcome to my personal curriculum progress webpage, here you can track my current progress on my ongoing projects and subjects that I'm currently working.
 
-## Web Development - Fullstack Bootcamp 
-
-| Courses                                                                                        | Status             | Evidence                                                                     |
+| **Courses**                                                                                        | **Status**             | **Evidence**                                                                     |
 | :--------------------------------------------------------------------------------------------- | :----------------- | :--------------------------------------------------------------------------- |
 | Welcome To Coding                                                                              | Complete - 6/15/19 | NA                                                                           |
 | Intro to Programming                                                                           | Complete - 6/16/19 | [Advanced Problems](./intro_to_programming)                                  |
