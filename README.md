@@ -26,7 +26,11 @@
 > In this section I consider my personal projects or my major accomplishments.
 
 | **Milestones**                                                                                   | **Status**         | **Evidence**   | :--------------------------------------------------------------------------------------------- | :----------------- | :--------------------------------------------------------------------------- |                                                              |
-| Create a website highlighting what you learned and built during this specialization.           |                    |                                                                              |
+| Create a website highlighting what you learned and built during this specialization.           |                    |                 
+|
 
-| Courses                                                                                        | Status             | Evidence                                                                     |
+> In this section I consider my personal projects or my major accomplishments.
+
+| **MILESTONES**                                                                                        | **Status**             | **Evidence**                                                                     |
 | :--------------------------------------------------------------------------------------------- | :----------------- | :--------------------------------------------------------------------------- |
+| Welcome To Coding                                                                              | Complete - 6/15/19 | NA              
