@@ -1,6 +1,6 @@
 # :star2: Sander's Personal Curriculum Progress
 
-> Welcome to my personal curriculum progress webpage, here you can track my current progress on my ongoing projects and subjects that I'm currently working and studying, my books that I'm reading or finished and reviewed the codes from it, and my major personal projects, which I consider milestones from my carrer.
+> Welcome to my personal curriculum progress webpage, here you can track my current progress on my ongoing projects and subjects that I'm currently working and studying, my books that I'm reading or finished and reviewed the codes from it, and my major personal projects, which I consider milestones from my career.
 
 |:computer: **Courses**                                                                          | **Status**             | **Evidence** |
 | :--------------------------------------------------------------------------------------------- | :-------------------- | :--------------------------------------------------------------------------- |
