@@ -7,7 +7,7 @@
 | Intro to Algorithms                                                                       | Complete - Mar 12, 2019 | [Udemy's Course](https://github.com/sanderdsz/algoritmos-java-basicos) |
 | Intro to Python                                                                           | Complete - Mar 18, 2019  | [Udemy's Course](https://www.udemy.com/certificate/UC-SCZIIOUZ/) |
 | Java 8 Object Oriented Programming                                                        | Complete - Jun 22, 2019  | [Udemy's Course](https://github.com/sanderdsz/yard-version-1.0) |
-| SQL                                                                                            |                    |                  |
+| Web Development with HTML5 + CSS3 + Bootstrap + PHP / AJAX + Javascript ES6               | Complete - Jul 9, 2019   | [Udemy's Course](https://www.udemy.com/certificate/UC-72IPV94X/) |
 | Rails                                                                                          |                    |                  |
 | JavaScript                                                                                     |                    |                  |
 | React                                                                                          |                    |                  |
