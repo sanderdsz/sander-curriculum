@@ -5,14 +5,12 @@
 | **Courses**                                                                                    | **Status**             | **Evidence** |
 | :--------------------------------------------------------------------------------------------- | :-------------------- | :--------------------------------------------------------------------------- |
 | Intro to Algorithms                                                                       | Complete - Mar 12, 2019 | [Udemy's Course](https://github.com/sanderdsz/algoritmos-java-basicos) |
-| Intro to Python                                                                           | Complete - Mar 18, 2019  | [Udemy's Course](https://www.udemy.com/certificate/UC-SCZIIOUZ/) |
-| Java 8 Object Oriented Programming                                                        | Complete - Jun 22, 2019  | [Udemy's Course](https://github.com/sanderdsz/yard-version-1.0) |
-| Web Development with HTML5 + CSS3 + Bootstrap + PHP / AJAX + Javascript ES6               | Complete - Jul 9, 2019   | [Udemy's Course](https://www.udemy.com/certificate/UC-72IPV94X/) |
-| Rails                                                                                          |                    |                  |
-| JavaScript                                                                                     |                    |                  |
+| Intro to Python                                                                           | Complete - Mar 18, 2019 | [Udemy's Course](https://www.udemy.com/certificate/UC-SCZIIOUZ/) |
+| Java 8 Object Oriented Programming                                                        | Complete - Jun 22, 2019 | [Udemy's Course](https://github.com/sanderdsz/yard-version-1.0) |
+| Web Development with HTML5 + CSS3 + Bootstrap + PHP / AJAX + Javascript ES6               | Complete - Jul 9, 2019 | [Udemy's Course](https://www.udemy.com/certificate/UC-72IPV94X/) |
+| Java Spring Boot + Angular 7 + Ionic                                                      | Started - Jun 22, 2019 | [Udemy's Course](https://github.com/sanderdsz/ecommercetype1-backend) |
+| Java Web Development with Swarm Thorntail Microservices and Angular JS                    | Started - Jun 15, 2019 | [LabTrack Bootcamp](https://github.com/sanderdsz/javaweb-backend) |
 | React                                                                                          |                    |                  |
-| Full Stack Project                                                                             |                    |                  |
-| Full Stack Online                                                                              |                    |                  |
 | **Reading**                                                                                    | **Status**         | **Evidence**     |
 | [Desbravando Orientação à Objetos e Java](https://www.casadocodigo.com.br/products/livro-orientacao-objetos-java) | Started - Jul 22, 2019 |    
 | **Projects Milestones**                                                                        | **Status**         | **Evidence**     |
