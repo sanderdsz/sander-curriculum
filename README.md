@@ -15,6 +15,6 @@
 | Full Stack Project                                                                             |                    |                  |
 | Full Stack Online                                                                              |                    |                  |
 | **Reading**                                                                                    | **Status**         | **Evidence**     |
-| [Desbravando Orientação à Objetos e Java](https://www.casadocodigo.com.br/products/livro-orientacao-objetos-java) | |    
+| [Desbravando Orientação à Objetos e Java](https://www.casadocodigo.com.br/products/livro-orientacao-objetos-java) | Started - Jul 22, 2019 |    
 | **Projects Milestones**                                                                        | **Status**         | **Evidence**     |
 | Create my personal website.                                                                    | Complete - Jul 9, 2019 | [Sander's Webpage](https://www.sanderdsz.github.io) |     
