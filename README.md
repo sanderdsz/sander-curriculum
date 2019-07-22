@@ -5,7 +5,7 @@
 | **Courses**                                                                                        | **Status**             | **Evidence**                                                                     |
 | :--------------------------------------------------------------------------------------------- | :----------------- | :--------------------------------------------------------------------------- |
 | Welcome To Coding                                                                              | Complete - 6/15/19 | NA                                                                           |
-| Intro to Programming                                                                           | Complete - 6/16/19 | [Advanced Problems](./intro_to_programming)                                  |
+| Intro to Algorithms                                                                       | Complete - Mar 12, 2019 | [Algorithms I](.https://github.com/sanderdsz/algoritmos-java-basicos) |
 | Software Engineering Foundations                                                               | Started - 6/16/19  | [Software Engineering Foundations](./full_stack_online_software_engineering) |
 | Ruby                                                                                           |                    |                                                                              |
 | SQL                                                                                            |                    |                                                                              |
