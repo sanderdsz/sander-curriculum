@@ -19,5 +19,5 @@
 | [Ruby on Rails Tutorial](https://www.railstutorial.org/book)                                   |                    |                                                                              |
 | [Learn Enough Action Cable to Be Dangerous](https://www.learnenough.com/action-cable-tutorial) |                    |                                                                              |
 | [Official React Docs](https://reactjs.org/docs/getting-started.html)                           |                    |                                                                              |
-| **Projects Milestone**                                                                                   | **Status**         | **Evidence**                                                                 |
-| Create a website highlighting what you learned and built during this specialization.           |                    |                                                                              |     
+| **Projects Milestones**                                                                        | **Status**         | **Evidence**                                                                 |
+| Create my personal website.                                                                    | Complete - 6/15/19 | [Sander's Webpage](./sanderdsz.github.io) |     
