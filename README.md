@@ -20,4 +20,4 @@
 | [Learn Enough Action Cable to Be Dangerous](https://www.learnenough.com/action-cable-tutorial) |                    |                                                                              |
 | [Official React Docs](https://reactjs.org/docs/getting-started.html)                           |                    |                                                                              |
 | **Projects Milestones**                                                                        | **Status**         | **Evidence**                                                                 |
-| Create my personal website.                                                                    | Complete - 6/15/19 | [Sander's Webpage](https://www.sanderdsz.github.io) |     
+| Create my personal website.                                                                    | Complete - Jul 9, 2019 | [Sander's Webpage](https://www.sanderdsz.github.io) |     
