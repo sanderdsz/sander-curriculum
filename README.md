@@ -7,14 +7,13 @@
 | Create my personal website.                                                                    | Complete - Jul 9, 2019 | [Sander's Webpage](https://www.sanderdsz.github.io) |
 | Tindev - Use Github's public API.                                                              | Start - Aug 6, 2019 | [Backend](https://github.com/sanderdsz/tindev-backend)  |     
 |:computer: **Courses**                                                                          | **Status**             | **Evidence** |
-| Intro to Algorithms                                                                       | Complete - Mar 12, 2019 | [Udemy's Course](https://github.com/sanderdsz/algoritmos-java-basicos) |
-| Intro to Python                                                                           | Complete - Mar 18, 2019 | [Udemy's Course](https://www.udemy.com/certificate/UC-SCZIIOUZ/) |
-| Java 8 Object Oriented Programming                                                        | Complete - Jun 22, 2019 | [Udemy's Course](https://github.com/sanderdsz/yard-version-1.0) |
-| Web Development with HTML5 + CSS3 + Bootstrap + PHP / AJAX + Javascript ES6               | Complete - Jul 9, 2019 | [Udemy's Course](https://www.udemy.com/certificate/UC-72IPV94X/) |
-| Java Spring Boot + Angular 7 + Ionic                                                      | Started - Jun 22, 2019 | [Udemy's Course](https://github.com/sanderdsz/ecommercetype1-backend) |
-| Labtrack's Bootcamp Java Web Development with Swarm Thorntail Microservices and Angular JS| Complete - Jun 15, 2019 | [Backend](https://github.com/sanderdsz/javaweb-backend) / [Frontend](https://github.com/sanderdsz/javaweb-frontend) |
 | Intro to SQL Manipulation + Queries + Aggregate Functions + Multiple Tables                | Started - Jul 10, 2019 | [Codeacademy's Course](https://www.codecademy.com/users/sanderdosSantosZuchinalli9231834469/achievements) |
-| React                                                                                          |                    |                  |
+| Labtrack's Bootcamp Java Web Development with Swarm Thorntail Microservices and Angular JS| Complete - Jun 15, 2019 | [Backend](https://github.com/sanderdsz/javaweb-backend) / [Frontend](https://github.com/sanderdsz/javaweb-frontend) |
+| Java Spring Boot + Angular 7 + Ionic                                                      | Started - Jun 22, 2019 | [Udemy's Course](https://github.com/sanderdsz/ecommercetype1-backend) |
+| Web Development with HTML5 + CSS3 + Bootstrap + PHP / AJAX + Javascript ES6               | Complete - Jul 9, 2019 | [Udemy's Course](https://www.udemy.com/certificate/UC-72IPV94X/) |
+| Java 8 Object Oriented Programming                                                        | Complete - Jun 22, 2019 | [Udemy's Course](https://github.com/sanderdsz/yard-version-1.0) |
+| Intro to Python                                                                           | Complete - Mar 18, 2019 | [Udemy's Course](https://www.udemy.com/certificate/UC-SCZIIOUZ/) |
+| Intro to Algorithms                                                                       | Complete - Mar 12, 2019 | [Udemy's Course](https://github.com/sanderdsz/algoritmos-java-basicos) |
 |:books: **Reading**                                                                             | **Status**         | **Evidence**     |
 | [Desbravando Orientação à Objetos e Java](https://www.casadocodigo.com.br/products/livro-orientacao-objetos-java) | Started - Jul 22, 2019 |    
 | [O Cangaçeiro Javascript](https://www.casadocodigo.com.br/products/livro-cangaceiro-javascript) | Started - Ago 06, 2019 | 
