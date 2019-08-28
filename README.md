@@ -5,7 +5,8 @@
 |:gem: **Projects Milestones**                                                                   | **Status**         | **Evidence**     |
 | :--------------------------------------------------------------------------------------------- | :-------------------- | :--------------------------------------------------------------------------- |
 | Create my personal website.                                                                    | Complete - Jul 9, 2019 | [Sander's Webpage](https://www.sanderdsz.github.io) |
-| Tindev - Use Github's public API.                                                              | Start - Aug 6, 2019 | [Backend](https://github.com/sanderdsz/tindev-backend)  |     
+| Tindev - Use Github's public API.                                                              | Complete - Aug 6, 2019 | [Backend](https://github.com/sanderdsz/tindev-backend) / [Frontend](https://github.com/sanderdsz/tindev-frontend)   | 
+| Sander's Dashboard - Personal CRM built with React and based in Material Design.               | Start - Aug 15, 2019 | [Backend](https://github.com/sanderdsz/dashboard-node-backend) / [Frontend](https://github.com/sanderdsz/react-material-admin)   |  
 |:computer: **Courses**                                                                          | **Status**             | **Evidence** |
 | Intro to SQL Manipulation + Queries + Aggregate Functions + Multiple Tables                | Started - Jul 10, 2019 | [Codeacademy's Course](https://www.codecademy.com/users/sanderdosSantosZuchinalli9231834469/achievements) |
 | Labtrack's Bootcamp Java Web Development with Swarm Thorntail Microservices and Angular JS| Complete - Jun 15, 2019 | [Backend](https://github.com/sanderdsz/javaweb-backend) / [Frontend](https://github.com/sanderdsz/javaweb-frontend) |
