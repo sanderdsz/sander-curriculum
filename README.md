@@ -4,18 +4,19 @@
 
 |:gem: **Projects Milestones**                                                                   | **Status**         | **Evidence**     |
 | :--------------------------------------------------------------------------------------------- | :-------------------- | :--------------------------------------------------------------------------- |
-| Create my personal website.                                                                    | Complete - Jul 9, 2019 | [Sander's Webpage](https://www.sanderdsz.github.io) |
-| Tindev - Use Github's public API.                                                              | Complete - Aug 6, 2019 | [Backend](https://github.com/sanderdsz/tindev-backend) / [Frontend](https://github.com/sanderdsz/tindev-frontend)   | 
-| Atena - Personal CRM built with React and based in Material Design.               | Start - Aug 15, 2019 | [Backend](https://github.com/sanderdsz/dashboard-node-backend) / [Frontend](https://github.com/sanderdsz/react-material-admin) / [Demo](https://admin-react-faf5e.web.app/) |  
-| Contact Keeper - Contact list made with MERN stack.               | Start - Sep 04, 2019 | [Fullstack](https://github.com/sanderdsz/contact-keeper) / [Demo](https://contact-keeper-reactjs.herokuapp.com/) |  
+| Create my personal website.                                                                    | Complete - Jul, 2019 | [Sander's Webpage](https://www.sanderdsz.github.io) |
+| Work Orders - Small CRUD table made with VueJS, Springboot and Swagger.                                                | Complete - Oct, 2019 | [Backend](https://github.com/sanderdsz/work-orders-springboot)/ [Demo](https://betha-api.herokuapp.com/) / [Frontend](https://github.com/sanderdsz/work-orders-vue) / [Demo](https://betha-frontend.herokuapp.com/)   | 
+| Tindev - Use Github's public API.                                                              | Complete - Aug, 2019 | [Backend](https://github.com/sanderdsz/tindev-backend) / [Frontend](https://github.com/sanderdsz/tindev-frontend)   | 
+| Atena - Personal CRM built with React and based in Material Design.               | Started - Aug, 2019 | [Backend](https://github.com/sanderdsz/dashboard-node-backend) / [Frontend](https://github.com/sanderdsz/react-material-admin) / [Demo](https://admin-react-faf5e.web.app/) |  
+| Contact Keeper - Contact list made with MERN stack.               | Complete - Sep, 2019 | [Fullstack](https://github.com/sanderdsz/contact-keeper) / [Demo](https://contact-keeper-reactjs.herokuapp.com/) |  
 |:computer: **Courses**                                                                          | **Status**             | **Evidence** |
-| Intro to SQL Manipulation + Queries + Aggregate Functions + Multiple Tables                | Started - Jul 10, 2019 | [Codeacademy's Course](https://www.codecademy.com/users/sanderdosSantosZuchinalli9231834469/achievements) |
-| Labtrack's Bootcamp Java Web Development with Swarm Thorntail Microservices and Angular JS| Complete - Jun 15, 2019 | [Backend](https://github.com/sanderdsz/javaweb-backend) / [Frontend](https://github.com/sanderdsz/javaweb-frontend) |
-| Java Spring Boot + Angular 7 + Ionic                                                      | Started - Jun 22, 2019 | [Udemy's Course](https://github.com/sanderdsz/ecommercetype1-backend) |
-| Web Development with HTML5 + CSS3 + Bootstrap + PHP / AJAX + Javascript ES6               | Complete - Jul 9, 2019 | [Udemy's Course](https://www.udemy.com/certificate/UC-72IPV94X/) |
-| Java 8 Object Oriented Programming                                                        | Complete - Jun 22, 2019 | [Udemy's Course](https://github.com/sanderdsz/yard-version-1.0) |
-| Intro to Python                                                                           | Complete - Mar 18, 2019 | [Udemy's Course](https://www.udemy.com/certificate/UC-SCZIIOUZ/) |
-| Intro to Algorithms                                                                       | Complete - Mar 12, 2019 | [Udemy's Course](https://github.com/sanderdsz/algoritmos-java-basicos) |
+| Intro to SQL Manipulation + Queries + Aggregate Functions + Multiple Tables                | Started - Jul, 2019 | [Codeacademy's Course](https://www.codecademy.com/users/sanderdosSantosZuchinalli9231834469/achievements) |
+| Labtrack's Bootcamp Java Web Development with Swarm Thorntail Microservices and Angular JS| Complete - Jun, 2019 | [Backend](https://github.com/sanderdsz/javaweb-backend) / [Frontend](https://github.com/sanderdsz/javaweb-frontend) |
+| Java Spring Boot + Angular 7 + Ionic                                                      | Started - Jun, 2019 | [Udemy's Course](https://github.com/sanderdsz/ecommercetype1-backend) |
+| Web Development with HTML5 + CSS3 + Bootstrap + PHP / AJAX + Javascript ES6               | Complete - Jul, 2019 | [Udemy's Course](https://www.udemy.com/certificate/UC-72IPV94X/) |
+| Java 8 Object Oriented Programming                                                        | Complete - Jun, 2019 | [Udemy's Course](https://github.com/sanderdsz/yard-version-1.0) |
+| Intro to Python                                                                           | Complete - Mar, 2019 | [Udemy's Course](https://www.udemy.com/certificate/UC-SCZIIOUZ/) |
+| Intro to Algorithms                                                                       | Complete - Mar, 2019 | [Udemy's Course](https://github.com/sanderdsz/algoritmos-java-basicos) |
 |:books: **Reading**                                                                             | **Status**         | **Evidence**     |
-| [Desbravando Orientação à Objetos e Java](https://www.casadocodigo.com.br/products/livro-orientacao-objetos-java) | Started - Jul 22, 2019 |    
-| [O Cangaçeiro Javascript](https://www.casadocodigo.com.br/products/livro-cangaceiro-javascript) | Started - Ago 06, 2019 | 
+| [Desbravando Orientação à Objetos e Java](https://www.casadocodigo.com.br/products/livro-orientacao-objetos-java) | Started - Jul, 2019 |    
+| [O Cangaçeiro Javascript](https://www.casadocodigo.com.br/products/livro-cangaceiro-javascript) | Started - Ago, 2019 | 
