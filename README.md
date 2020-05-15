@@ -9,6 +9,7 @@
 | Tindev - Use Github's public API.                                                              | Complete - Aug, 2019 | [Fullstack](https://github.com/sanderdsz/tindev) / [Demo](https://tindev-fullstack.herokuapp.com/)   | 
 | Atena - Personal CRM built with React and based in Material Design.               | Started - Aug, 2019 | [Backend](https://github.com/sanderdsz/dashboard-node-backend) / [Frontend](https://github.com/sanderdsz/react-material-admin) / [Demo](https://admin-react-faf5e.web.app/) |  
 | Contact Keeper - Contact list made with MERN stack.               | Complete - Sep, 2019 | [Fullstack](https://github.com/sanderdsz/contact-keeper) / [Demo](https://contact-keeper-reactjs.herokuapp.com/) |  
+| Sander's blog - A blog static page made with Gatsby.               | Complete - May, 2020 | [Fullstack](https://github.com/sanderdsz/blog-gatsby) / [Demo](https://sanderzuchinalli.netlify.app) |  
 |:computer: **Courses**                                                                          | **Status**             | **Evidence** |
 | Intro to SQL Manipulation + Queries + Aggregate Functions + Multiple Tables                | Started - Jul, 2019 | [Codeacademy's Course](https://www.codecademy.com/users/sanderdosSantosZuchinalli9231834469/achievements) |
 | Labtrack's Bootcamp Java Web Development with Swarm Thorntail Microservices and Angular JS| Complete - Jun, 2019 | [Backend](https://github.com/sanderdsz/javaweb-backend) / [Frontend](https://github.com/sanderdsz/javaweb-frontend) |
